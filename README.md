@@ -1,3 +1,5 @@
+Live via GitHub Pages: https://diegobrix.github.io/FrontEnd-Mentor---Nft-Preview-Card/
+
 # Frontend Mentor - NFT preview card component
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
