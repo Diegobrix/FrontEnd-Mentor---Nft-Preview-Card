@@ -155,7 +155,7 @@ hr {
    color: var(--neutral-100);
 }
 
-@media screen and (width >= 1440px) {
+@media screen and (width >= 720px) {
    body {
       display: grid;
       place-items: center;
